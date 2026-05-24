@@ -80,8 +80,8 @@ java -jar StateMinimizer-withImplicationtable.jar
 
 ## How to Use
 
-1.Set the number of states using the spinner
-2.Set the number of inputs using the spinner
+1. Set the number of states using the spinner
+2. Set the number of inputs using the spinner
 3. (Optional) Type custom state names: A,B,C  or  q0,q1,q2
 4. Click "Build Transition Table"
 5. Fill in every Next State and Output cell
