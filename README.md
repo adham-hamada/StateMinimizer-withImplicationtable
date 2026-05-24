@@ -13,7 +13,7 @@ Developed as a bonus project for the **Digital Logic II** course at
 
 <!-- Add a screenshot after first run -->
 
-!\[App Screenshot](ss%20.jpeg)
+!\[App Screenshot](ss.jpeg)
 
 \---
 
