@@ -12,7 +12,7 @@ Developed as a bonus project for the **Digital Logic II** course at
 ## 📸 Preview
 
 <!-- Add a screenshot after first run -->
-![App Screenshot](docs/screenshot.png)
+![App Screenshot](ss%20.jpeg)
 
 ---
 
