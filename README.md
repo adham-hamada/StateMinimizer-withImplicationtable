@@ -46,28 +46,6 @@ Group them using Union-Find → these states can be merged.
 
 ---
 
-## 🗂️ Project Structure
-
-StateMinimizer-withImplicationtable/
-│
-├── src/
-│   └── stateminimizer/withimplicationtable/
-│       ├── Gui/
-│       │   ├── MainFrame.java           ← Main JFrame (entry point UI)
-│       │   ├── TransitionInputPanel.java← Handles transition table logic
-│       │   └── ImplicationTablePanel.java← Custom drawing canvas
-│       ├── Model/
-│       │   ├── State.java               ← State data model
-│       │   ├── StateMachine.java        ← FSM representation
-│       │   └── ImplicationTable.java    ← Core minimization algorithm
-│       └── StateMinimizerWithImplicationTable.java  ← Main class
-│
-├── nbproject/                           ← NetBeans project config
-├── .gitignore
-└── README.md
-
----
-
 ## 🚀 How to Run
 
 ### Option A — From NetBeans
