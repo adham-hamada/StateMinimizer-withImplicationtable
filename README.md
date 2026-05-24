@@ -85,13 +85,13 @@ java -jar StateMinimizer-withImplicationtable.jar
 3. (Optional) Type custom state names: A,B,C  or  q0,q1,q2
 4. Click "Build Transition Table"
 5. Fill in every Next State and Output cell
-	. Next State must be one of your defined state names
-	. Output can be 0, 1, or any value
+	* Next State must be one of your defined state names
+	* Output can be 0, 1, or any value
 6. Click "▶ Minimize FSM"
 7. View results:
-	. Top panel   → Implication Table (color-coded triangle)
-	. Step Log tab → Full step-by-step explanation
-	. Results tab  → Equivalence classes + Minimized FSM table
+	* Top panel   → Implication Table (color-coded triangle)
+	* Step Log tab → Full step-by-step explanation
+	* Results tab  → Equivalence classes + Minimized FSM table
 
 \---
 
