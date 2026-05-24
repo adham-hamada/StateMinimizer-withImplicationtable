@@ -1,4 +1,4 @@
-# 🔵 State Minimizer — Implication Table Method
+# State Minimizer — Implication Table Method
 
 A desktop application built with **Java Swing** that minimizes
 finite state machines (FSMs) using the **Implication Table Method**
@@ -9,21 +9,21 @@ Developed as a bonus project for the **Digital Logic II** course at
 
 ---
 
-## 📸 Preview
+## Preview
 
 <!-- Add a screenshot after first run -->
 ![App Screenshot](ss%20.jpeg)
 
 ---
 
-## ✨ Features
+## Features
 
 - Input any Mealy FSM via an interactive transition table
 - Supports custom state names (A, B, C or q0, q1, q2 or any label)
 - Visualizes the full implication table triangle with color-coded cells
-  - 🟢 Green  = Equivalent states  ✓
-  - 🔴 Red    = Distinguished states  ✗
-  - ⬜ White  = Implied pairs (shown as text inside cell)
+  -  Green  = Equivalent states  ✓
+  -  Red    = Distinguished states  ✗
+  -  White  = Implied pairs (shown as text inside cell)
 - Step-by-step log showing every decision made by the algorithm
 - Displays final equivalence classes as colored badges
 - Shows the minimized FSM transition table
@@ -32,7 +32,7 @@ Developed as a bonus project for the **Digital Logic II** course at
 
 ---
 
-## 🧠 Algorithm — How It Works
+## Algorithm — How It Works
 
 The **Implication Table Method** minimizes a Mealy FSM in 4 steps:
 
@@ -46,7 +46,7 @@ Group them using Union-Find → these states can be merged.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Option A — From NetBeans
 
@@ -68,7 +68,7 @@ java -jar StateMinimizer-withImplicationtable.jar
 
 ---
 
-## 💻 Requirements
+## Requirements
 
 | Requirement | Version     |
 |-------------|-------------|
@@ -78,7 +78,7 @@ java -jar StateMinimizer-withImplicationtable.jar
 
 ---
 
-## 📖 How to Use
+## How to Use
 
 1.Set the number of states using the spinner
 2.Set the number of inputs using the spinner
@@ -95,7 +95,7 @@ java -jar StateMinimizer-withImplicationtable.jar
 
 ---
 
-## 🏗️ Built With
+## Built With
 
 - **Java 18**
 - **Java Swing** (GUI framework)
@@ -104,15 +104,8 @@ java -jar StateMinimizer-withImplicationtable.jar
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Adham Hamada**
 Faculty of Engineering — Alexandria University
 Digital Logic II — Bonus Project
-
----
-
-## 📄 License
-
-This project was submitted as academic coursework.
-Code is original and written individually as per course requirements.
